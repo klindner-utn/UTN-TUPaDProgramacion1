@@ -91,4 +91,4 @@ TPI/
 
 ## Video demostrativo
 
-- [Link al video]([https://drive.google.com/file/d/1VtE-lNsRe3y1yr9VRBX4oSDmoK7LK5Rv/view?usp=sharing])
+- [Link al video](https://drive.google.com/file/d/1VtE-lNsRe3y1yr9VRBX4oSDmoK7LK5Rv/view?usp=sharing)
